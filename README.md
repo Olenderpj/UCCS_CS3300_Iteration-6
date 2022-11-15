@@ -1,1 +1,1 @@
-# UCCS_CS3300_Iteration-6
+# UCCS CS3300 Iteration 6
