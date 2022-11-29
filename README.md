@@ -40,11 +40,6 @@ corresponding to your changes. <br>
 **[ X  Points ]:** 3 References or links that helped you. <br>
 **[ X Points ]:** Response Paragraph. <br>
 
-### Extra Credit Opportunity:
-
-**[ 10 points ]:** Implement a minimum of 4 new unit tests and provide the associated code with comments for each test.
-
-
 # Instructions:
 
 ---
@@ -96,7 +91,10 @@ corresponding to your changes. <br>
 3. Provide a <ins> **small**</ins> portion of your CSS Code and give an explanation of what the styling accomplishes.
 
 
-4. Provide a **minimum** of **3** references that helped you learn something or solve a problem.
+4. Provide **3** references that helped you learn something or solve a problem.
 
 
-5. If you chose to attempt the extra credit, put the associated code here.
+5. Write a short summary about what you have learned in this iteration and what skills you can take with you into future <br>
+classes/ the rest of your degree.
+
+
