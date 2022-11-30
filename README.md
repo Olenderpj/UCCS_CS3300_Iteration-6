@@ -29,16 +29,18 @@ corresponding to your changes. <br>
 
 ---
 [//]: # (This deliverable is critical and MUST be included)
-**[ 15 Points ]:** Link to your GitHub Repository containing all updated and working code.<br>
+**[ 7 Points ]:** Link to your GitHub Repository containing all updated and working code.<br>
 
-[//]: # (45 total points: 15 total points for each set of deliverables, there should be 3 images)
-**[ 2.5  Points each ]:** start image for each view (Index, New Session, Registration). <br>
-**[ 2.5  Points each ]:** Wireframe image from iteration 02 for each view (New, Show Edit). <br>
-**[ 10 Points each ]:** Completed code for each view (Index, New Session, Registration). <br>
+[//]: # (21 total points: 15 total points for each set of deliverables, there should be 3 images)
+**[ 1  Point each ]:** start image for each view (Index, New Session, Registration). <br>
+**[ 1  Point each ]:** Wireframe image from iteration 02 for each view (New, Show Edit). <br>
+**[ 5 Points each ]:** Completed code for each view (Index, New Session, Registration). <br>
 
 [//]: # (15 points for the write up)
-**[ X  Points ]:** 3 References or links that helped you. <br>
-**[ X Points ]:** Response Paragraph. <br>
+**[ 5  Points ]:** 3 References or links that helped you. <br>
+**[ 1 Points ]:** Provided HTML code with simple explanation.
+**[ 1 Points ]:** Provided HTML code with simple explanation.
+**[ 5 Points ]:** Response Paragraph. <br>
 
 # Instructions:
 
