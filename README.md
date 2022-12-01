@@ -50,25 +50,34 @@ corresponding to your changes. <br>
    `rails generate devise:views users`
 
 
-2. You will be modifying the following 3 views to look like the wireframe diagrams that you created in iteration 02 earlier in the semester. <br>
+2. In <PORTFOLIO PROJECT>/config/initializer/devise.rb, Uncomment the following.
+    `# config.scoped_views = false`
+
+
+3. Change the same variable from `false` to `true`.
+
+
+4. You will be modifying the following 3 views to look like the wireframe diagrams that you created in iteration 02 earlier in the semester. <br>
    ```diff
    + Remember to push your code changes to GitHub early and often so that you avoid losing completed work.
    ```
     1. Portfolio "Home/ Index" View <br>
-        - \<PORTFOLIO PROJECT\>/app/views/home/**index.html.erb** <br>
+       **NOTE:** You can choose to edit either of the index pages that we have created in this class, just make sure that 
+        one of them is linked as your homepage in the /config/routes.rb file.
+            - \<PORTFOLIO PROJECT\>/app/views/home/**index.html.erb** <br>
     2. User "Registration/ Sign Up" View <br>            
         - \<PORTFOLIO PROJECT\>/app/views/users/registrations/new.html.erg <br>
     3. User "Login" View <br>           
         - \<PORTFOLIO PROJECT\>/app/views/users/sessions/**new.html.erb** <br>
 
 
-3. Take a screenshot of each initial view to show your starting point.
+5. Take a screenshot of each initial view to show your starting point.
 
 
-4. Modify the HTML and CSS code for each of the views and push your code to GitHub when complete.<br>
+6. Modify the HTML and CSS code for each of the views and push your code to GitHub when complete.<br>
 
 
-5. Take a second screenshot of your finalized views to show your progress.
+7. Take a second screenshot of your finalized views to show your progress.
 
 ### _**Example Submission:**_
 ![](ExampleSubmission.png)
